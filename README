@@ -1,0 +1,10 @@
+This will get an actually Usable File Manager, for now just named uFM.
+
+# Why?
+Because there's none. Ok, there are a lot of them, but just crappy ones.
+Either no directory tree or just single-windowed etc.
+And the Linux ones don't run that well, because Apple's Quartz stuff is horrible. So ... ;)
+
+# Build/Install
+You need Python (obviosly) and from pip the packages:
+- wx
